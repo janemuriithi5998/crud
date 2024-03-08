@@ -1,0 +1,25 @@
+h1{
+ font-size: 40px;
+ color: blue;
+ font-family: "Noto Mono";
+}
+p{
+ font-family: "Laksaman";
+ color: black;
+ font-size: 15px;
+
+}
+body{
+ background-color: lightblue;
+}
+a {
+  font-family: " Chandas";
+  font-size: 15px;
+  color: darkblue;
+  text-decoration: none;
+  transition: 0.3s color ease-out;
+}
+a:hover{
+ text-decoration: none;
+ transition: ease-in-out;
+}
